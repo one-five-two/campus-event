@@ -104,6 +104,18 @@ Test the application using these credentials:
 
 ---
 
+
+## Environment Variables
+
+This project uses the following environment variables:
+
+`MONGODB_URI` - MongoDB connection string in this format:
+```mongodb+srv://<username>:<password>@<cluster-url>/<database-name>```
+
+### Example:
+```mongodb+srv://your_username:your_password@cluster0.xxxxx.mongodb.net/your_database```
+
+
 ## API Documentation
 
 ### Authentication Endpoints
