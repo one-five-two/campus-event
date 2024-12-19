@@ -8,8 +8,8 @@ Key functionalities include event creation, registration, search capabilities, a
 ---
 
 ## Deployment Links
-- Frontend: 
-- Backend API: 
+- https://campus-event-app.vercel.app/
+   
 
 ---
 
