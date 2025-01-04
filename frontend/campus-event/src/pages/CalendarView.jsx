@@ -33,7 +33,7 @@ const CalendarView = () => {
 
   const fetchEvents = async () => {
     try {
-      const response = await fetch('http://localhost:5003/api/events');
+      const response = await fetch('http://localhost:5005/api/events');
       const data = await response.json();
       console.log('Raw events data:', data); // Debug log
 

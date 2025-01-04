@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import "../styles/HomePage.css";
 
-const API_URL = "http://localhost:5004";
+const API_URL = "http://localhost:5005";
 
 const HomePage = () => {
   const [featuredEvents, setFeaturedEvents] = useState([]);

@@ -14,7 +14,7 @@ const EventsPage = () => {
 
   const fetchEvents = async () => {
     try {
-      const response = await fetch('http://localhost:5004/api/events');
+      const response = await fetch('http://localhost:5005/api/events');
       const data = await response.json();
       console.log('Fetched events:', data); // Debug log
       setEvents(data);
