@@ -8,7 +8,7 @@ Key functionalities include event creation, registration, search capabilities, a
 ---
 
 ## Deployment Links
-- Frontend: [Campus Event Hub]https://campus-event-zg73.vercel.app/
+- Frontend: [Sharon's Campus Event Hub]https://campus-event-zg73.vercel.app/
 - Backend API: [API Endpoint](https://campus-event-hub-api.onrender.com)
 
 ---
